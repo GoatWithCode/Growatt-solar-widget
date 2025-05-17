@@ -4,8 +4,8 @@ This tool displays your current PV power values directly on your desktop. The da
 
 ## ✅ Requirements
 
-### 1. Python (recommended: 3.10 or 3.11)
-- Download: https://www.python.org/downloads/
+### Python (recommended: 3.10 or 3.11)
+
 
 ### 2. Required Python Packages
 Install all required packages using `pip`:
