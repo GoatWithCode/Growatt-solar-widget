@@ -21,7 +21,7 @@ playwright install
 ```
 
 ### 3. Add Chromium
-- Copy chromium-1169/chrome-win/ to the script's working directory
+- Copy chromium-1169/chrome-win/ to the script's working directory the default directory is C:\Users\{usernam}\AppData\Local\ms-playwright
 
 ```
 ./SolarWidget/chromium-1169/chrome-win/chrome.exe
