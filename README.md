@@ -42,7 +42,7 @@ password=YOUR_PASSWORD_BASE64
 - The password **must** be Base64-encoded.
 
 ### 5. Compile
-You can compile the script with pyinstaller: 
+- You can compile the script with pyinstaller: 
 ```
 pyinstaller --onefile --windowed --add-data "chromium-1169;chromium-1169" solarwidget.py
 ```
