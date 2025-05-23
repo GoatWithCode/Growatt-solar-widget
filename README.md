@@ -52,5 +52,5 @@ pyinstaller --onefile --windowed --add-data "chromium-1169;chromium-1169" solarw
  https://c.gmx.net/@329938113155568689/Eb7xhI8oXKhdL8wJpruOmQ
 
 ```
-<img src="https://github.com/GoatWithCode/Growatt-solar-widget/blob/main/Screenshot%202025-05-17%20124628.png" alt="Solar-widget" width="400" height="400">
+<img src="https://github.com/GoatWithCode/Growatt-solar-widget/blob/main/Screenshot%202025-05-17%20124628.png" alt="Solar-widget" width="00" height="300">
 
